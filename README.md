@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+:paperclip: CV
+
+Check out my CV at [github.com/Aflaq123/CV](https://github.com/Aflaq123/CV/blob/main/cv.pdf)
+
 <!--
 **Aflaq123/Aflaq123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
